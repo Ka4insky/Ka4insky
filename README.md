@@ -1,6 +1,6 @@
 ### I greet you, my guest 👋
 
-![VakAF](https://github.com/Ka4insky/Ka4insky/assets/102248067/f0a0f1fb-d220-4121-a402-6451f4404eac)
+![VakAF (1)](https://github.com/Ka4insky/Ka4insky/assets/102248067/b6d55d30-b801-4fe0-9551-bb6f4b91118e)
 
 <!--
 **Ka4insky/Ka4insky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
